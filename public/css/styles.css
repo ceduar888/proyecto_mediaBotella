@@ -1,0 +1,63 @@
+
+body {
+    background-color: #F7FBFF;
+}
+/* ESTILOS DEL MENU */
+.custom-navbar {
+    background-color: #3e055d;
+}
+
+.custom-navbar .navbar-brand, 
+.custom-navbar .nav-link, 
+.custom-navbar .navbar-toggler-icon {
+    color: white;
+}
+
+.custom-navbar .navbar-toggler {
+    border-color: white;
+}
+
+.custom-navbar .dropdown-menu {
+    background-color: #3e055d;
+}
+
+.custom-navbar .dropdown-item {
+    color: white;
+}
+
+.custom-navbar .dropdown-item:hover {
+    background-color: #2b0344;
+}
+
+
+/* ESTILOS DE LOS ENCABEZADOS DE LAS TABLAS */
+.hidden {
+    display: none;
+}
+
+.table thead th {
+    background-color: #3e055d;
+    color: white;  
+}
+
+
+/* ESTILOS DEL LOGIN Y REGISTER */
+.btn-color{
+    background-color: #64098c;
+    color: #fff;
+
+    }
+
+.profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    }
+
+.cardbody-color{
+    background-color: #ebf2fa;
+    }
+
+a{
+    text-decoration: none;
+    }
